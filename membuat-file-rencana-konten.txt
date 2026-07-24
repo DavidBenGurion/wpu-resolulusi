@@ -1,8 +1,6 @@
 -menambahkan rencana konten
 -membuat marchandise konten
 -membuat konten framework javascript
-  *Vue
-  *Angular
 -Belajar Struktur Data
 -membuat konten framework PHP
   *Laravel
