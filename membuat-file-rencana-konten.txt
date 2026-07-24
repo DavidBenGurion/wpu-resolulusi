@@ -1,2 +1,5 @@
 -menambahkan rencana konten
 -membuat marchandise konten
+-membuat konten framework javascript
+-membuat konten framework PHP
+  
