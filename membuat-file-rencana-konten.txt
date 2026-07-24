@@ -1,5 +1,7 @@
 -menambahkan rencana konten
 -membuat marchandise konten
 -membuat konten framework javascript
+  *React
+  *React  Native
 -membuat konten framework PHP
   
