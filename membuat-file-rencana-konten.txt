@@ -3,6 +3,7 @@
 -membuat konten framework javascript
   *Vue
   *Angular
+  *Svelte.js
 -Belajar Struktur Data
 -membuat konten framework PHP
   *Laravel
